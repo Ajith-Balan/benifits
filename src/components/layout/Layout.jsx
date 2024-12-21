@@ -7,7 +7,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const Layout = ({
   children,
-  title = "Benifits Abroad",
+  title = "Benifits International",
   description = "clothing shop Explore our latest collections, enjoy exclusive discounts, and experience fashion like never before at CJ Attire—where style meets comfort!",
   keywords = " cloth,tshirt,dress cj attire,CJ-ATTIRE,CJ ATTIRE, oversized t shirt,kids",
   author = "ajith-balan"
