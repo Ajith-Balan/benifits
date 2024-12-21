@@ -7,9 +7,9 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const Layout = ({
   children,
-  title = "ecommerce app - shop now",
+  title = "Benifits Abroad",
   description = "clothing shop Explore our latest collections, enjoy exclusive discounts, and experience fashion like never before at CJ Attire—where style meets comfort!",
-  keywords = "https://cj-attire.onrender.com cjattire.com cj-attire.onrender.com cloth,tshirt,dress cj attire,CJ-ATTIRE,CJ ATTIRE, oversized t shirt,kids",
+  keywords = " cloth,tshirt,dress cj attire,CJ-ATTIRE,CJ ATTIRE, oversized t shirt,kids",
   author = "ajith-balan"
 }) => {
   return (
